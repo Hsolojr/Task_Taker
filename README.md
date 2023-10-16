@@ -64,7 +64,11 @@ As a small business owner, you can use this note-taking application to:
 
 ## Deployment
 
-The application is deployed on Heroku and can be accessed via the following link: [Small Business Note-Taking App](https://task-client-manager.herokuapp.com/)
+The application is deployed on Heroku and can be accessed via the following link: [Small Business Note-Taking App](https://task-client-manager-79e80b9f154d.herokuapp.com/)
+
+## Screenshot 
+<img width="1440" alt="Screen Shot 2023-10-15 at 5 08 49 PM" src="https://github.com/Hsolojr/Task_Taker/assets/139496108/204a951a-fb7a-445d-8994-163a97e6140c">
+
 
 ## License
 
